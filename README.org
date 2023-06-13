@@ -1,0 +1,10 @@
+* mp3-duration
+
+Get the duration of an MP3 file
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/mp3-duration.git   |
+| commit  | 4093c3f  |
+| systems | mp3-duration |
+|---------+-------------------------------------------|
+
